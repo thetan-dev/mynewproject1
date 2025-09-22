@@ -3,3 +3,4 @@ for i in range(10,5):
     print(i)
 print("good day")
 print("New feature")
+print("Kill the bestfriend")
