@@ -6,4 +6,4 @@ print("New feature")
 print("Kill the girlfirend")
 print("New feature 5")
 
-print("issue rezsolved")
+print("issue rezsolved by me")
