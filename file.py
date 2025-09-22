@@ -1,5 +1,5 @@
 print("Hello World")
-for i in range(20,25):
+for i in range(20,24):
     print(i)
 print("good day")
 print("New feature")
